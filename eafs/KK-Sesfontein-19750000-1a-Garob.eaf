@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-30T15:23:28+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Research Assistant/Dropbox/KK-Sesfontein-19750000-1a-Garob.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../Dropbox/KK-Sesfontein-19750000-1a-Garob.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:471576e1-f33b-4262-a9fa-9603c85924c5</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">101</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="163"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="163"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="9330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="9680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="11790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="11790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="12602"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="12602"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="14670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="14670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="16045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="16045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="16945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="16945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="22860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="22860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="22860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="22860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="45530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="45530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="45545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="45545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="46270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="46270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="46285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="46285"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="50570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="50570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="50600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="50600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="52210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="52210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="52305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="52305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="57405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="57405"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="57690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="57690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="64110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="64110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="64910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="64910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="73190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="73190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="74488"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="74488"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="82343"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="82343"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="82528"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="82528"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="83357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="83357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="83656"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="83656"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="86242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="86242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="86271"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="86271"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="92042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="92042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="92256"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="92256"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="96513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="96513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="97299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="97299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="99627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="99627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="100425"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="100425"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="104835"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="104835"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="106389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="106389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="109474"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="109474"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="112044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="112044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="112593"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="112593"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="112651"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="119292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="120921"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="126174"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="126797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="134757"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="135045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="138459"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="139825"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="142292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="143293"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="150621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="150831"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="168741"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="169078"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="173986"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="175861"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="182790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="183387"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="193131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="194595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="197397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="198352"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="212809"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="213772"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="219755"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="220514"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="228179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="228923"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="236887"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="237161"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="244269"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="244460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="253202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="254303"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="257427"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="258786"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="266348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="267777"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="276877"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="277453"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="287077"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="288133"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="294837"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="295635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="304065"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="304890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="307754"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="308587"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="313606"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="325422"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="325422"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="325792"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="325792"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="326729"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="326729"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="329000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="329000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="329630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="329630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="330711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="330711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="331333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="331333"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="332216"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="332216"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="333386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="333386"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="338009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="338009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="338909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="338909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="340008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="340008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="340656"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="340656"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="342008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="342008"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="344512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="344512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="345684"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="345684"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="347000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="347000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="356729"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="356729"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ref" TIER_ID="ref@A">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts157">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts161">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ref" TIER_ID="ref@B">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts145">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts165">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts169">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="tx"
+        PARENT_REF="ref@A" TIER_ID="tx@A">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Nâ haidi |gomdi nēti ī di nēti ī !amdi nâdi nâ Xori-i ge nē !â!âbai go lau goe !â!âbai horagatse a ǁâi-e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>|Nî khoen ge !gû hâna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Xawe da ǁō da hâo ǂnôa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ǁNāpa, ǁnāpa, ǁnāpa, ǁnāpa ôa'ûtso ao ngapa [ǂû-ôats go ao ǁnāpa] sī ǁâi [ǁan (reside)] ti hî</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>. Ôa'û hā-u, ôa'û hā-u, ôa'û hā-u, ôa'û hā-u ti hî, ǂnoa mû, ǂnoa mû, ǂnoa mû, ǂnoa mû !hā, ǂnoa mû, ǂnoa mû !hā ti kara hî, osa |ādi |guidetsi kara ǁō, |ādi gui kara ǁō, |ādi gui kara ǁō, ots'a rēti xūde ga rēti kara hî, rēti kara hî, rēti kara hî otsa "ǁnâ ǁgâuta hâ xoena tae sī nî mâ ti kara mî</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>|Ui nēdi xoma, rē |uidi xoma, rēdi xoma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ǂNôaî [ǂnûi] soredai !oredi nâ [sores ai !ores !nâ] mâ-in âin [(hā(i)n or a  in] |â, in |â</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>|Uibi xoma !gao-!gaoga hēti lā khul, nâ !khuru</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Xaira-en go xoena ôa dē kuri-i 'î xaira-e sīxa hâ tin ge xoena nâ mî ôa'û rana, napore rana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>a ǃgû on ge roxopa i ǃhoro-e a orao ra ǃgû, roxopa i tabaka-e a orao ra ǃgû</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>Noxopa i a ora tabaka-e oro ǃgû</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Oni kara ǁâi ǃhoro-e, oi kara ǁâi, ǃhoro-e, oi ge aisama soroson tsî anin |guina nî ǂû</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ǁHapa xoe-e ǃgû tide ǃhoro-i kara ǁâio, tabaka-i kara ǁâio</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>xapa xoe-e ??? nēsi |guin ge nî ǃgû</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>ora-i tabaga-e ao, ǃhoro-e ao, î</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Anin |guin nî ǂû, ǁnâ goe ra ǃgû |homaib aina</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>TODO</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>Xai hâna? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                TIME_SLOT_REF1="ts152" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>Ae, ǁnapa |gui tae sī Gowarebi xai |guiti a ǃgam re xaiba |guiba, |gui |guiba, |gui |guiba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>î, |gui |guiba</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                TIME_SLOT_REF1="ts160" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>|Ū ta a |gae-e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="tx@A" TIER_ID="fte@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="tx"
+        PARENT_REF="ref@B" TIER_ID="tx@B">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>So</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>TODO?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>so</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>O |Gae hân xa ǃau tomats ge hâ i?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>Xai hâna?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>TODO? Sounds like the tape was cut immediately afterwards</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                TIME_SLOT_REF1="ts168" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>Xamanina, du gere ǃgamo, nē ǃnôaǁapagu nēgu, ǁîgua du gere |hôa toma-e?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="tx@B" TIER_ID="fte@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="tx@A" TIER_ID="mb@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="tx@B" TIER_ID="mb@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ge" PARENT_REF="mb@A" TIER_ID="ge@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ge" PARENT_REF="mb@B" TIER_ID="ge@B"/>
+    <TIER LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@A" TIER_ID="ps@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@B" TIER_ID="ps@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lxid"
+        PARENT_REF="mb@A" TIER_ID="lxid@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lxid"
+        PARENT_REF="mb@B" TIER_ID="lxid@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="so" PARENT_REF="mb@A" TIER_ID="so@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="so" PARENT_REF="mb@B" TIER_ID="so@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="nt"
+        PARENT_REF="ref@A" TIER_ID="nt@A">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Notes: Beginnig sounds cut a little too early (already in the original casette); comparison of dialect to standard KKG from original transcription: Nâ = ǁnā; nâdi nâ Xori-i = ǁnādi !nâ khori-i; lau goe = nau ǁgoe; horagatse ǁâi-e = horagase a ǁan-e</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>ǁnāpa ôa'ûtso ao ngapa = ǂû-ôats go ao ǁnāpa; ǁâi = ǁan (reside)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>osa = ots ga; |guidetsi = ǀguidets; ǁō = dialectal ~'to smash'; gui = |guide; gui = |gui; rēti = nēti ī; otsa = ots ga; ǁgâuta = ǁgâusa (tawa);  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>xoma = khama; rē |uidi xoma = nēdi khama; rēdi xoma = nēdi khama</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ǂNôaî = ǂnûi; soredai !oredi nâ = sores ai !ores !nâ; âin = (hā(i)n or a in</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>|Uibi xoma = |Uib khama; hēti = nēti (Demonstrated); lā = nâ; khul - pron. influenced by demonstration done; nâ = 'bite'; !khuru = ǁhū</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Xaira-en go xoena = haira-en go khoena; dē = nē; 'î = ǁî; xaira-e = haira-e; sīxa - dialectal; xoena nâ = khoena ra; ôa'û = ǂûre</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>roxopa = noxopa; TODO: to me the beginning sounds like &lt;aaio ǃâ ǃgû&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>oro = ora; TODO: I think I hear something said before &lt;Noxopa&gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Oni = On; ǁâi = ǁan 'ripe'; aisama soroson = aitsama tsorosen</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>ǁHapa xoe-e = ǁKhawa khoe-e; ǁâio = ǁano 'when ripe'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>xapa xoe-e = ǁkhaba khoe-e; TODO: orignially transcribed as the end and the beginning of separate sentences, but I hear them connected by untranscribed material which sound to me like &lt;ǃgû tide&gt; </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>ǁnâ goe = ǁnā ǁgoe; TODO: I hear (and see in the spectogram) another click in the beginning, something like &lt;a ǁnin &gt;</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Xai = 'kudu'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="nt"
+        PARENT_REF="ref@B" TIER_ID="nt@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="orig"
+        PARENT_REF="tx@A" TIER_ID="orig@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="orig"
+        PARENT_REF="tx@B" TIER_ID="orig@B"/>
+    <TIER LINGUISTIC_TYPE_REF="ref" TIER_ID="ref@C">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@C" TIER_ID="tx@C">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>TODO?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>TODO?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="mb" PARENT_REF="tx@C" TIER_ID="mb@C"/>
+    <TIER LINGUISTIC_TYPE_REF="mb" PARENT_REF="mb@C" TIER_ID="ge@C"/>
+    <TIER LINGUISTIC_TYPE_REF="fte" PARENT_REF="tx@C" TIER_ID="fte@C"/>
+    <TIER LINGUISTIC_TYPE_REF="orig" PARENT_REF="tx@C" TIER_ID="orig@C"/>
+    <TIER LINGUISTIC_TYPE_REF="so" PARENT_REF="mb@C" TIER_ID="so@C"/>
+    <TIER LINGUISTIC_TYPE_REF="lxid" PARENT_REF="mb@A" TIER_ID="lxid@C"/>
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="tx@A" TIER_ID="fta@A"/>
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="tx@B" TIER_ID="fta@B"/>
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="tx@C" TIER_ID="fta@C"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@C" TIER_ID="ps@C"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="transcription" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="orth" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ref" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="tx" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mb" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orig" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ge" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ps" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="so" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lxid" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="fte" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="nt" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

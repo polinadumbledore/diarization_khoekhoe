@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-01T19:40:08+02:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/alena2/Dropbox/Khoekhoe_Projects/KKG_Archive/KKG_Audio&amp;Video/KK-Mariental-20220813-1a-C.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../Dropbox/Khoekhoe_Projects/KKG_Archive/KKG_Audio&amp;Video/KK-Mariental-20220813-1a-C.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:26bc0b81-ba54-483f-90b9-d9aaa1b75924</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">3</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="70677"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="70677"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="73325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="73325"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="81874"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="84967"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ref" TIER_ID="ref@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ref" TIER_ID="ref@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="tx"
+        PARENT_REF="ref@A" TIER_ID="tx@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="tx@A" TIER_ID="fte@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="tx"
+        PARENT_REF="ref@B" TIER_ID="tx@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="translation"
+        PARENT_REF="tx@B" TIER_ID="fte@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="tx@A" TIER_ID="mb@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="tx@B" TIER_ID="mb@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ge" PARENT_REF="mb@A" TIER_ID="ge@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ge" PARENT_REF="mb@B" TIER_ID="ge@B"/>
+    <TIER LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@A" TIER_ID="ps@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@B" TIER_ID="ps@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lxid"
+        PARENT_REF="mb@A" TIER_ID="lxid@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lxid"
+        PARENT_REF="mb@B" TIER_ID="lxid@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="so" PARENT_REF="mb@A" TIER_ID="so@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="so" PARENT_REF="mb@B" TIER_ID="so@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="nt"
+        PARENT_REF="ref@A" TIER_ID="nt@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="nt"
+        PARENT_REF="ref@B" TIER_ID="nt@B"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="orig"
+        PARENT_REF="tx@A" TIER_ID="orig@A"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="orig"
+        PARENT_REF="tx@B" TIER_ID="orig@B"/>
+    <TIER LINGUISTIC_TYPE_REF="ref" TIER_ID="ref@Sylvanus">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="tx" PARENT_REF="ref@Sylvanus" TIER_ID="tx@Sylvanus">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>[English]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="mb" PARENT_REF="tx@Sylvanus" TIER_ID="mb@C"/>
+    <TIER LINGUISTIC_TYPE_REF="mb" PARENT_REF="mb@C" TIER_ID="ge@C"/>
+    <TIER LINGUISTIC_TYPE_REF="fte" PARENT_REF="tx@Sylvanus" TIER_ID="fte@C"/>
+    <TIER LINGUISTIC_TYPE_REF="orig" PARENT_REF="tx@Sylvanus" TIER_ID="orig@C"/>
+    <TIER LINGUISTIC_TYPE_REF="so" PARENT_REF="mb@C" TIER_ID="so@C"/>
+    <TIER LINGUISTIC_TYPE_REF="lxid" PARENT_REF="mb@A" TIER_ID="lxid@C"/>
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="tx@A" TIER_ID="fta@A"/>
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="tx@B" TIER_ID="fta@B"/>
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="tx@Sylvanus" TIER_ID="fta@C"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ps" PARENT_REF="mb@C" TIER_ID="ps@C"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="transcription" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="orth" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ref" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="tx" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mb" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="orig" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ge" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ps" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="so" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lxid" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="fte" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="nt" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
