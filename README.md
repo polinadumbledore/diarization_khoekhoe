@@ -1,6 +1,24 @@
 # diarization_khoekhoe
-Репозиторий для курсовой работы на тему «Диаризация говорящих на данных малоресурсных языков» (англ. «Speaker Diarization on the data of Low-Resource languages») 
 
-- creatingprotocol.ipynb получает на вход аннотированные в ELAN файлы с расширением .eaf (сами файлы и список их названий в csv) и делает из них базу данных database.yml. В базе данных лежат ссылки на три типа файлов: .rttm (файлы с аннотированными сегментами каждого аудио), .uem (границы аннотации), .lst (список названий аудио).
-- finetuningandoptimizing.ipynb: получает на вход database.yml и на имеющихся данных файнтюнит модель и оптимизирует параметры. Код данного файла адаптирован с туториала https://github.com/pyannote/pyannote-audio/blob/develop/tutorials/adapting_pretrained_pipeline.ipynb
-- correlations.ipynb: считает корреляции DER и параметров, которые могут быть значимыми (общая продолжительность речи в файле, язык говорения и количество говорящих)
+Repository for a course project on the topic: **"Speaker Diarization on the data of Low-Resource Languages"**
+
+## Notebooks Overview
+
+- `creatingprotocol.ipynb`:  
+  Takes as input ELAN-annotated files with the `.eaf` extension (the files themselves and a list of their names in a CSV) and creates a database `database.yml`.  
+  The database contains links to three types of files:  
+  - `.rttm` — files with annotated segments of each audio  
+  - `.uem` — annotation boundaries  
+  - `.lst` — list of audio filenames
+
+- `finetuningandoptimizing.ipynb`:  
+  Takes `database.yml` as input and fine-tunes the model and optimizes parameters based on the available data.  
+  The code in this notebook is adapted from the tutorial:  
+  https://github.com/pyannote/pyannote-audio/blob/develop/tutorials/adapting_pretrained_pipeline.ipynb
+
+- `correlations.ipynb`:  
+  Calculates correlations between DER (Diarization Error Rate) and parameters that may be significant, such as:  
+  - Total speech duration in the file  
+  - Spoken language  
+  - Number of speakers
+
